@@ -13,5 +13,5 @@ pointing to existing branch
 git checkout <branch name>
 
 
-
+"I have added this file for testing the merge conflict"
 
