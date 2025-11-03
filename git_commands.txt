@@ -1,2 +1,17 @@
  git config --global user.name 'ABC'
  git config --global user.email 'ABC'
+
+
+ git add .
+ git commit -m "Message to be given"
+ git push -u origin <branch name>
+
+creating a new branch
+git checkout -b <branch name>
+
+pointing to existing branch 
+git checkout <branch name>
+
+
+"I have added this file for testing the merge conflict"
+
