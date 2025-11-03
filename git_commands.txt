@@ -13,5 +13,10 @@ pointing to existing branch
 git checkout <branch name>
 
 
-"I have added this file for testing the merge conflict"
+##while pushing a file I get merge conflict error
+git checkout main
+git pull
+git checkout <branch name>
+git merge main  ##Throws error
 
+##Accept current change/ Accept incoming change/ accept both changes/ compare changes
